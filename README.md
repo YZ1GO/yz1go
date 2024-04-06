@@ -10,4 +10,9 @@
 抬头看 人间烟火甚灿烂
 低头看 万里征程心未乱
 ```
-![](congrats.gif)
+<div style="position: relative;">
+    <img src="congrats.gif" style="float:left;">
+    <img src="snoopy.png" style="float:right">
+</div>
+
+
