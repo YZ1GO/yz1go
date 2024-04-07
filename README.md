@@ -4,12 +4,8 @@
 > 
 > 人生如逆旅 我亦是行人
 >
-```
-回头看 轻舟已过万重山
-向前看 前路漫漫亦灿灿
-抬头看 人间烟火甚灿烂
-低头看 万里征程心未乱
-```
+> 待会儿去码头整点薯条
+
 <div style="position: relative;">
     <img src="congrats.gif" style="float:left;">
     <img src="snoopy.png" style="float:right">
