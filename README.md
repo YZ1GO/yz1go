@@ -4,7 +4,7 @@
 > 
 > 人生如逆旅 我亦是行人
 >
-> 待会儿去码头整点薯条
+> <b>待会儿去码头整点薯条</b>
 
 <div style="position: relative;">
     <img src="congrats.gif" style="float:left;">
