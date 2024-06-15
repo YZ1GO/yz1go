@@ -1,7 +1,7 @@
 <h2 align="center">My Stats</h2> 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yz1go&hide_border=true&show_icons=true&bg_color=00000000&theme=nord#gh-dark-mode-only" height="200"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yz1go&hide_border=true&exclude_repo=calculator_remaster&layout=compact&card_width=200px&bg_color=00000000&theme=nord#gh-dark-mode-only" height="200"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yz1go&hide_border=true&exclude_repo=calculator_remaster&layout=compact&card_width=200px&langs_count=8&bg_color=00000000&theme=nord#gh-dark-mode-only" height="200"/></a>
   <a href="#"><img src="snoopy.png" height="150px" /></a>
 </p>
 
