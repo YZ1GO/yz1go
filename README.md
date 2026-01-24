@@ -27,5 +27,5 @@
 | Y3-S2 | [L.EIC028 Parallel and Distributed Computing](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541893) | [Noia Talk](https://github.com/YZ1GO/L.EIC028_CPD_PRJ02) | Java | Multi-user terminal chat app with AI-powered rooms, local LLM integration, and LAN support. | 17.10 |
 | Y3-S2 | [L.EIC029 Artificial Intelligence](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541894) | [Google Hash Code 2017](https://github.com/YZ1GO/L.EIC029_IA_PRJ01) | Python | Interactive Python app for optimizing router placement (Hash Code 2017). | 19.00 |
 | Y3-S2 | [L.EIC029 Artificial Intelligence](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541894) | [UFC Fight Prediction](https://github.com/YZ1GO/L.EIC029_IA_PRJ02) | Python | Predictive ML model for UFC fight outcomes using fighter stats and historical data. | 19.00 |
-
+| Y3-S2 | [L.EIC030 Capstone Project](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541895) | Code Quest | C# TypeScript | AI-driven platform for creating and auto-scoring technical hiring assessments, streamlining candidate evaluation. | 19.00 |
 
