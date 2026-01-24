@@ -7,7 +7,7 @@
 
 <h2 align="center">FEUP Projects</h2> 
 
-| Year-Semester | Course Unit | Project | Language(s) | Description | Grade 
+| Year-Semester | Course Unit | Project | Language(s) | Description | Project Grade 
 |:-:|:-:|:-:|:-:|-|:-:| 
 | Y1-S2 | [L.EIC009 Programming](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501671) | [Image Processing](https://github.com/YZ1GO/L.EIC009_P_PRJ) | C++ | A program for representing and processing RGB color images with 8-bits per RGB channel. | 19.80 |
 | Y2-S1 | [L.EIC011 Algorithm and Data Structures](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520316) | [Schedules Management System](https://github.com/YZ1GO/L.EIC011_AED_PRJ01) | C++ | A simple system for managing schedules for L.EIC classes. | 19.75 |
@@ -27,5 +27,5 @@
 | Y3-S2 | [L.EIC028 Parallel and Distributed Computing](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541893) | [Noia Talk](https://github.com/YZ1GO/L.EIC028_CPD_PRJ02) | Java | Multi-user terminal chat app with AI-powered rooms, local LLM integration, and LAN support. | 17.10 |
 | Y3-S2 | [L.EIC029 Artificial Intelligence](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541894) | [Google Hash Code 2017](https://github.com/YZ1GO/L.EIC029_IA_PRJ01) | Python | Interactive Python app for optimizing router placement (Hash Code 2017). | 19.00 |
 | Y3-S2 | [L.EIC029 Artificial Intelligence](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541894) | [UFC Fight Prediction](https://github.com/YZ1GO/L.EIC029_IA_PRJ02) | Python | Predictive ML model for UFC fight outcomes using fighter stats and historical data. | 19.00 |
-| Y3-S2 | [L.EIC030 Capstone Project](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541895) | Code Quest | C# TypeScript | AI-driven platform for creating and auto-scoring technical hiring assessments, streamlining candidate evaluation. | 19.00 |
+| Y3-S2 | [L.EIC030 Capstone Project](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541895) | Code Quest | C# TypeScript | AI-driven platform for creating and auto-scoring technical hiring assessments, streamlining candidate evaluation. | 20.00 |
 
